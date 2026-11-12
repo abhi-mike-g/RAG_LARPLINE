@@ -1,0 +1,8 @@
+numpy>=2.0
+faiss-cpu>=1.9
+PyMuPDF>=1.24
+sentence-transformers>=3.0
+transformers>=4.45
+torch>=2.3
+huggingface_hub>=0.26
+python-pptx>=0.6.23
